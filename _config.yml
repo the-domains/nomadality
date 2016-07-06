@@ -1,0 +1,14 @@
+layout_spectrum: 0.9418498240411282
+typography_spectrum: 0.5799163216724992
+color:
+  brandStrength: 0.04144097166135907
+  lightness: 0.09939999203197658
+  saturation: 0.11681150132790208
+  rhythmicContrast: 0.040076135424897075
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Nomadality
