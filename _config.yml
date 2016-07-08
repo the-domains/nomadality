@@ -12,3 +12,7 @@ color:
     - '#A7C520'
     - '#493F0B'
 name: Nomadality
+author:
+  name: Nomadality
+  email: ask@nomadality.com
+  url: nomadality.com
